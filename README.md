@@ -4,18 +4,23 @@ HDMI连接回音壁 隐藏windows下的桌面显示
 
 你可以在 PowerShell 中随时使用以下参数管理它：
 
-查看当前回音壁状态：
-powershell
+* **查看当前回音壁状态：**
+
+```powershell
 & "HDMISoundbar.exe" --status | Out-Default
-手动触发一次信号激活：
-powershell
+```
+* **手动触发一次信号激活：**
+```powershell
 & "HDMISoundbar.exe" --once | Out-Default
-重新安装 / 启动开机自启服务：
-powershell
+```
+* **重新安装 / 启动开机自启服务：**
+```powershell
 & "HDMISoundbar.exe" --install | Out-Default
-卸载开机自启并停止后台进程：
-powershell
+```
+* **卸载开机自启并停止后台进程：**
+```powershell
 & "HDMISoundbar.exe" --uninstall | Out-Default
+```
 
 保持 Windows 设置里的 “从桌面删除显示器”为“开” 即可，以后每次开机或休眠唤醒都会由后台程序直接点亮 EP-HDMI-RX 的音频通道。你可以直接重启电脑测试一下效果！
 
