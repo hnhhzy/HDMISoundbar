@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKjPt99kc3I=",
+  "success": true,
+  "projectFilePath": "e:\\MakeProject\\HDMISoundbar\\HDMISoundbar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Albin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.57\\microsoft.windows.sdk.net.ref.10.0.22621.57.nupkg.sha512"
+  ],
+  "logs": []
+}

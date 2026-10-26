@@ -1,0 +1,17 @@
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.exe
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.deps.json
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.runtimeconfig.json
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.dll
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.pdb
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\Microsoft.Windows.SDK.NET.dll
+e:\MakeProject\HDMISoundbar\bin\Debug\net9.0-windows10.0.22621.0\WinRT.Runtime.dll
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.GeneratedMSBuildEditorConfig.editorconfig
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.AssemblyInfoInputs.cache
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.AssemblyInfo.cs
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.csproj.CoreCompileInputs.cache
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoun.D25BB614.Up2Date
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.dll
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\refint\HDMISoundbar.dll
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.pdb
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\HDMISoundbar.genruntimeconfig.cache
+e:\MakeProject\HDMISoundbar\obj\Debug\net9.0-windows10.0.22621.0\ref\HDMISoundbar.dll
